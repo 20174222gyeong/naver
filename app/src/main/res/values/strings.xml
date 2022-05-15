@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">naver</string>
+
+    <string name="naver_client_id">bfa66Ezp3TPim5gxBEKf</string>
+    <string name="naver_client_secret">C9RyuriNwV</string>
+    <string name="naver_client_name">Capstone</string>
+</resources>
